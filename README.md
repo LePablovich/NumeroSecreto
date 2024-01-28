@@ -51,8 +51,6 @@ git clone [link-que-copiaste]
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 **Le Pablovich** - *Autor* - [LePablovich](https://github.com/LePablovich)
 
 ## Expresiones de Gratitud 🎁
