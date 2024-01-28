@@ -57,7 +57,7 @@ git clone [link-que-copiaste]
 
 * **📢 Instructires:** [christianpva](https://github.com/christianpva) y [ljcl79](https://github.com/ljcl79)
 * **☕ Invitame un café:** [aquí](https://www.buymeacoffee.com/lepablovich?l)
-* Gracais a todos por leer!
+* ♥️ Gracias a todos por leer!
 
 
 ---
